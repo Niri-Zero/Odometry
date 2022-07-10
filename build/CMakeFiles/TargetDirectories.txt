@@ -1,0 +1,7 @@
+/Users/kaustubhkhulbe/Documents/realsense/build/CMakeFiles/rs-data-collect.dir
+/Users/kaustubhkhulbe/Documents/realsense/build/CMakeFiles/edit_cache.dir
+/Users/kaustubhkhulbe/Documents/realsense/build/CMakeFiles/rebuild_cache.dir
+/Users/kaustubhkhulbe/Documents/realsense/build/CMakeFiles/list_install_components.dir
+/Users/kaustubhkhulbe/Documents/realsense/build/CMakeFiles/install.dir
+/Users/kaustubhkhulbe/Documents/realsense/build/CMakeFiles/install/local.dir
+/Users/kaustubhkhulbe/Documents/realsense/build/CMakeFiles/install/strip.dir
